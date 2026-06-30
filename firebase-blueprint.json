@@ -1,0 +1,22 @@
+{
+  "collections": {
+    "events": {
+      "schema": {
+        "id": "string",
+        "title": "string",
+        "category": "string",
+        "date": "string",
+        "startTime": "string",
+        "endTime": "string?",
+        "location": "string",
+        "campus": "string",
+        "organizer": "string",
+        "logoText": "string",
+        "description": "string",
+        "link": "string?",
+        "isUserSubmitted": "boolean?"
+      },
+      "indexes": []
+    }
+  }
+}

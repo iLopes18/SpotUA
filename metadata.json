@@ -1,0 +1,8 @@
+{
+  "name": "SpotUA",
+  "description": "O teu radar de eventos da comunidade UA, semana a semana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
